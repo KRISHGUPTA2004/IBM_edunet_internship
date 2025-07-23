@@ -1,4 +1,4 @@
-#💼 Employee Salary Prediction Web App
+# 💼 Employee Salary Prediction Web App
 
 📌 Project Overview
 
@@ -6,7 +6,7 @@ This project is a web-based application that predicts whether an employee earns 
 
 Users can enter individual data through the sidebar for instant predictions, or upload a CSV file for batch classification. The model is trained on the UCI Adult dataset.
 
-📊 Model Description
+## 📊 Model Description
 
 Algorithm Used: GradientBoostingClassifier
 
@@ -14,7 +14,7 @@ Best Performing Model: GradientBoosting with accuracy: 0.8582
 
 Evaluation Metric: Accuracy Score, Confusion Matrix, Classification Report
 
-📈 Model Performance
+## 📈 Model Performance
 
 ✅ Accuracy: 85.82% on test data
 
@@ -26,7 +26,7 @@ Evaluation Metric: Accuracy Score, Confusion Matrix, Classification Report
 
 You can access the live, deployed web application here:
 
-🔗 Live App via Ngrok
+🔗 https://e81f2199e0a2.ngrok-free.app
 
 ⚠️ Note: As this is a temporary ngrok tunnel, the link may expire. For a fresh deployment, use the Colab file provided in the repository.
 
