@@ -1,4 +1,4 @@
-# 💼 Employee Salary Prediction Web App
+# 💼 Employee Salary Prediction 
 
 📌 Project Overview
 
@@ -22,7 +22,7 @@ Evaluation Metric: Accuracy Score, Confusion Matrix, Classification Report
 
 📊 Evaluated on key metrics using classification_report
 
-🌐 Live Demo
+ ## 🌐 Live Demo
 
 You can access the live, deployed web application here:
 
@@ -30,7 +30,7 @@ You can access the live, deployed web application here:
 
 ⚠️ Note: As this is a temporary ngrok tunnel, the link may expire. For a fresh deployment, use the Colab file provided in the repository.
 
-📝 How to Use
+## 📝 How to Use
 
 Clone the repository or open the provided Google Colab link.
 
@@ -40,7 +40,7 @@ Ngrok will create a live link — use it to access the app.
 
 Use the sidebar to input employee details or upload a CSV file.
 
-📂 Files in Repository
+## 📂 Files in Repository
 
 app.py: Main Streamlit app
 
@@ -50,7 +50,7 @@ README.md: Documentation for the project
 
 notebook.ipynb: Optional – EDA and model training pipeline (if included)
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Krish Gupta
 
